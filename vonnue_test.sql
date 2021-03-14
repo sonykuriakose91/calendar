@@ -123,7 +123,7 @@ INSERT INTO `user` (`id`, `username`, `name`, `auth_key`, `password_hash`, `pass
 (2, 'prince.mathew', 'Prince Mathew', 'lnhGZF-GYlt2rvk6Rq11YfhEDyx3rbcH', '$2y$13$.oFPAJ9p4nd8233nfoTcMOF0zpnHJucw8mClRsEZetffVXKyoXFWC', NULL, 'princemathewn007@gmail.com', 1, 0, 1615176281, 1615274197, 'ioODB_XWLcEPBvAcmV3x31cfcrI1jNHv_1615176281'),
 (3, 'hyby.kurian', 'Hyby Kurian', 'f5q7zyA7JgBulv7sCIpPXxOCeBUKB721', '$2y$13$CVpkCNbCilU50qFIxwhgFOSGqvU5GMlJHb2ZEMx.aRvHz4GlIXKcS', NULL, 'hybykurian@gmail.com', 1, 0, 1615176325, 1615176325, 'mDb4hcw5nMD-O0n7JwjiGDC5FKNedULr_1615176325'),
 (4, 'charles.skariah', 'Charles Skariah', 'LJMHf-sghS_ut-qGKz6cHBLLzVfvlnVz', '$2y$13$mjNLjkJItHLGwZAzkT/PJezbUtBkeWP8iAwNwU2YoPCXqCCR0N/D2', NULL, 'charlesskariah@gmail.com', 1, 0, 1615206075, 1615206075, 'KaEmtoQM4USeqX-5kbkhQynLwCR9vara_1615206075'),
-(6, 'vijo.thomas', '', 'RMYtXGVG4aD2WP8r1IUeGKF-fBXDUApx', '$2y$13$7z9xOBuvEmdpZbdQ7M2eAu6w7LGRAe94baXUp2m9TuKponw3ONS8O', NULL, 'vijothomas@gmail.com', 1, 0, 1615709757, 1615709757, '6Y4a5o7irgmUWO6OLbOF1WD76Yy8qGnK_1615709757');
+(6, 'vijo.thomas', 'Vijo Thomas', 'RMYtXGVG4aD2WP8r1IUeGKF-fBXDUApx', '$2y$13$7z9xOBuvEmdpZbdQ7M2eAu6w7LGRAe94baXUp2m9TuKponw3ONS8O', NULL, 'vijothomas@gmail.com', 1, 0, 1615709757, 1615709757, '6Y4a5o7irgmUWO6OLbOF1WD76Yy8qGnK_1615709757');
 
 --
 -- Indexes for dumped tables
